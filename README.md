@@ -16,7 +16,7 @@ The effect of Thomas High School metrics can be summarized as follow when the ni
 ![District Summary(After)](https://user-images.githubusercontent.com/70525492/94961370-21a7b800-04ba-11eb-9165-63bf1ed7f72c.png)
 
 ### *School Summary*
-1. The school summaries for each school, with the exception of Thomas High School, were not affected with the ninth grade replacement to NaN.
+1. The school summaries for each school, with the exception of Thomas High School, were not affected with the ninth grader scores were replaced with NaN.
 
 - School summary before replacment
   ![school_summary_before](https://user-images.githubusercontent.com/70525492/94962089-7f88cf80-04bb-11eb-9a22-dfda4331752b.png)
@@ -78,7 +78,23 @@ The effect of Thomas High School metrics can be summarized as follow when the ni
 
 Based on the final analysis, the four major changes that can be observed in the school district analysis in regards to Thomas High School math and reading results can be summarized as follow:
 
-1. Math passing percentage dropped from 93.3% to 66.9%
-2. Reading passing percentage dropped from 97.3% to 69.7%
-3. Overall math and reading percentage dropped from 90.9% to 65.1%
-4. All percentage were close to previous calculated values when ninth grader results were dropped from calculation. 
+1. Overall school district summary (all 15 schools) was not affected when Thomas High School ninth grader scores were replaced with NaN. The percentage decrease was 0.3% or less.
+
+2. Signficant dropped in Math and Reading passing percentage when ninth grader percentages were updated to NaN as total students were including the ninth grader for percentage passing calculation.
+   - Math passing percentage dropped from 93.3% to 66.9% (-26.4%)
+   - Reading passing percentage dropped from 97.3% to 69.7% (-27.6%)
+   - Overall math and reading percentage dropped from 90.9% to 65.1% (-25.8%)
+   - Lost second position in the top 5 school ranking when ninth grader scores was updated to NaN.
+   
+3. Significant increased in Math and reading passing percentage when the ninth grader grades were excluded from the percentage passing calculation
+   - Math passing percentage increased 66.9% to 93.2% (-0.1% from initial result)
+   - Reading passing percentage increased 69.7% to 97.0% (-0.3% from initial result)
+   - Overall math and reading percentage increased from 65.1% to 90.6% (-0.3% from initial result)
+   - Maintained second position in the top 5 school ranking after the ninth grader grades were excluded from the percentage passing calculation.
+   
+4. Overall passing scores by school type, school size, and school spending see no significant changes with virtually no difference when evaluated to zero decimal point. 
+
+
+
+   
+
