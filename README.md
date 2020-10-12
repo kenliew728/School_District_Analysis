@@ -44,12 +44,14 @@ The effect of Thomas High School metrics can be summarized as follow when the ni
 
 ### *Math and Reading Scores by Grade*
 1. Math and Reading Scores before replacing ninth-grader results
+   
 ![math_score_before](https://user-images.githubusercontent.com/70525492/94967938-a8ae5d80-04c5-11eb-8dcd-176cee11c2de.png)
 
 ![reading_score_before](https://user-images.githubusercontent.com/70525492/94967942-aa782100-04c5-11eb-8bed-1b1d0e6fefc4.png)
 
-2. Math and Reading Scores after replacing ninth-grader results with NaN. 
-3. The replacement only affected the Ninth-Graders' results.
+1. Math and Reading Scores after replacing ninth-grader results with NaN. 
+2. The replacement only affected the Ninth-Graders' results.
+
 ![math_score_after](https://user-images.githubusercontent.com/70525492/94968024-c7145900-04c5-11eb-8521-7bdfac14b994.png)
 
 ![reading_score_after](https://user-images.githubusercontent.com/70525492/94968030-ca0f4980-04c5-11eb-9e97-b1b0e9a3bd9e.png)
